@@ -1,5 +1,5 @@
 ##Welcome to Phoenix!
-[localhost:4000/]([http://localhost:4000/])
+[localhost:4000/](http://localhost:4000/)
 
 Phoenix is a web development framework written in Elixir which implements the server-side MVC pattern. If you've ever used a similar framework, say Ruby on Rails or Python's Django, many of the concepts will be familiar to you. Phoenix is not, however, simply a Rails clone. It aims to have the best of both worlds, high developer productivity _and_ high application performance. Phoenix also has some interesting new twists, channels for managing websockets, pre-compiled templates and the potential for alternative architectures which may make services more manageable from the very beginning of your project.
 
